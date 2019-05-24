@@ -1,7 +1,7 @@
 # Cost by Custom Group Dashboard for vRealize Operations 6.7, 7.0 and 7.5
 ---------
 
-View application costs per VM using the Custom Groups in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
+View costs per VM based on Custom Groups in [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
 
 ![Cost by Custom Group](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-cost_by_custom_group/master/Dashboard.png)
 
